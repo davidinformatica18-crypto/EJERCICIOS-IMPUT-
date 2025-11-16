@@ -1,0 +1,5 @@
+#TAREA 1 DE CLASE ¿QUE HACE IMPUT?
+#IMPUT SIRVE PARA PREGUNTAR ALGO AL USUARIO Y GUARDAR LO QUE ESCRIBE EL TECLADO.
+
+respuesta = imput ("¿Te gusta el chocolate?")
+print (" Has dicho ", respuesta)

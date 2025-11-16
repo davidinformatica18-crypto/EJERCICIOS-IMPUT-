@@ -1,0 +1,15 @@
+# PEDIMOS LOS DATOS AL USUARIO
+
+DAVID = imput (" ¿ como te llamas ? ")
+
+AZUL = imput ( " dime un color: ")
+
+TELEFONO = imput (" ¿ como te llamas ? ")
+
+# CREAMOS UNA FRASE CON LAS 3 VARIABLES
+
+frase = " Hola, " + DAVID + " . EL " + TELEFONO + " " + AZUL " es muy bonito."
+
+# MOSTRAMOS LA FRASE
+
+print (frase)
